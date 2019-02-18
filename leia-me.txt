@@ -1,0 +1,4 @@
+Este projeto mostra o uso do seekBar com alguns métodos de notificação como:
+setOnSeekBarChangeListener - Um retorno de chamada que notifica quando o nível de progresso foi alterado.
+onStartTrackingTouch - Notificação de que o usuário iniciou um gesto de toque.
+onStopTrackingTouch - Notificação de que o usuário finalizou um gesto de toque.
